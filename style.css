@@ -44,6 +44,10 @@ margin-bottom: 8px;
   font-size: 15px;
   border-radius: 50px;
 }
+/* deal */
+.deal{
+    background-color: light rgb(209, 17, 52);
+}
 /* delevery info */
 .delevery{
     background-color: rgb(255, 246, 233);
@@ -92,4 +96,49 @@ margin-bottom: 8px;
     font-size: 15px;
     font-weight: 200;
     line-height: 50px;
+}
+/* submit */
+.submit{
+    background: url(./images/Rectangle\ 9.png) no-repeat center center;
+    padding: 150px 0;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+   
+}
+.fom{
+    margin-top: 60px;
+}
+.ff{
+    padding: 20px;
+    color: black;
+}
+.fom-btn{
+    background-color: #E55473;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
+/* Foot title */
+.foot{
+    background-color: #111010;
+    text-align: center;
+padding: 130px;
+}
+.clr-text{
+    color:#E55473;
+}
+.foot-title h5{
+color: white;
+font-size: 30px;
+}
+.foot-title p{
+    color: antiquewhite;
+    font-weight: 200;
+    margin-top: 20px;
+}
+.copy{
+    color: bisque;
+    font-size: 10px;
 }
